@@ -1,0 +1,1 @@
+LightsOut creates a GUI that followed a MVC model to play the LightsOut game. 
